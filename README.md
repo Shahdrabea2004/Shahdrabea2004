@@ -1,16 +1,103 @@
-## Hi there 👋
+# 👋 Hi, I'm Shahd Rabea Eid
 
-<!--
-**Shahdrabea2004/Shahdrabea2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>🚀 Back-End Developer | CS & AI Student | Problem Solver</b><br/>
+  📍 6th October City, Egypt &nbsp;|&nbsp; 🎓 Ahram Canadian University (2026)
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shahdrabea2004&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a **Computer Science & Artificial Intelligence student** passionate about building **scalable backend systems** and solving real-world problems using **Java, Spring Boot, and AI integration**.
+
+- 🔭 Currently working on **EDIP** (AI-powered Document Intelligence Platform)
+- 🧠 Strong interest in **Backend Systems, APIs, and System Design**
+- 🏆 Solved **500+ problems on Codeforces**
+- 👩‍🏫 CPC Mentor helping students improve in Competitive Programming
+- 💬 Ask me about **Java, Spring Boot, REST APIs, or Problem Solving**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### 🗄️ Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔗 APIs & Testing
+
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### ⚙️ Software Engineering
+
+![OOP](https://img.shields.io/badge/OOP-Principles-blue?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-Architecture-green?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-Strategy%20%2F%20Factory-purple?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean_Code-Best_Practices-black?style=for-the-badge)
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🚀 [EDIP](https://github.com/Shahdrabea2004/EDIP_PROJECT) | AI-powered enterprise document system with OCR, routing, and RAG chatbot | Java, Spring Boot, MongoDB |
+| 🛍️ [Sheglow Flask Project](https://github.com/Shahdrabea2004/Sheglow_FlaskProject) | E-commerce backend with authentication & cart system | Python, Flask |
+| 🐱 [Cat Shop JSP](https://github.com/Shahdrabea2004/MewFect-Cat-Products-Shop-JSP_Project) | Web app using JSP & Servlets | Java, JSP |
+| 🎮 Console Games | Console-based games collection | Java |
+| ❌⭕ Tic Tac Toe | Classic game implementation | C++ |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahdrabea2004&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahdrabea2004&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🏅 Achievements
+
+- 🥇 500+ Problems solved on [Codeforces](https://codeforces.com/profile/shahd_rabea)
+- 🥇 Java Gold Badge on HackerRank
+- 🏆 Competitive Programming Contestant (2023–2025)
+- 👩‍🏫 CPC Mentor at University
+- 📜 ITI Full Stack Python Track
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahd-rabea-479341307/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Shahdrabea2004)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge)](https://codeforces.com/profile/shahd_rabea)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge)](https://www.hackerrank.com/profile/shahdrabeaead)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:shahdrabeaead@gmail.com)
+
+---
+
+> *"First solve the problem, then write the code."*
