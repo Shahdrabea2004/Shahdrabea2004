@@ -58,6 +58,8 @@ I'm a **Computer Science & Artificial Intelligence student** passionate about bu
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
@@ -86,7 +88,7 @@ I'm a **Computer Science & Artificial Intelligence student** passionate about bu
 ## 🏅 Achievements
 
 - 🥇 500+ Problems solved on [Codeforces](https://codeforces.com/profile/shahd_rabea)
-- 🥇 Java Gold Badge on HackerRank
+- 🥇 Java Gold Badge on [HackerRank](https://www.hackerrank.com/profile/shahdrabeaead)
 - 🏆 Competitive Programming Contestant (2023–2025)
 - 👩‍🏫 CPC Mentor at University
 - 📜 ITI Full Stack Python Track
