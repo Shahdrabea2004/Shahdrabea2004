@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>🚀 Back-End Developer | CS & AI Student | Problem Solver</b><br/>
-  📍 6th October City, Egypt &nbsp;|&nbsp; 🎓 Ahram Canadian University (2026)
+  🎓 Ahram Canadian University (2026)
 </p>
 
 <p align="center">
@@ -48,6 +48,8 @@ I'm a **Computer Science & Artificial Intelligence student** passionate about bu
 ![MVC](https://img.shields.io/badge/MVC-Architecture-green?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-Strategy%20%2F%20Factory-purple?style=for-the-badge)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-Best_Practices-black?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-500%2B_Problems-orange?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data_Structures_%26_Algorithms-Advanced-red?style=for-the-badge)
 
 ### 🧰 Tools
 
@@ -65,9 +67,10 @@ I'm a **Computer Science & Artificial Intelligence student** passionate about bu
 |--------|-------------|------|
 | 🚀 [EDIP](https://github.com/Shahdrabea2004/EDIP_PROJECT) | AI-powered enterprise document system with OCR, routing, and RAG chatbot | Java, Spring Boot, MongoDB |
 | 🛍️ [Sheglow Flask Project](https://github.com/Shahdrabea2004/Sheglow_FlaskProject) | E-commerce backend with authentication & cart system | Python, Flask |
-| 🐱 [Cat Shop JSP](https://github.com/Shahdrabea2004/MewFect-Cat-Products-Shop-JSP_Project) | Web app using JSP & Servlets | Java, JSP |
-| 🎮 Console Games | Console-based games collection | Java |
-| ❌⭕ Tic Tac Toe | Classic game implementation | C++ |
+| 🐱 [Cat Shop JSP](https://github.com/Shahdrabea2004/MewFect-Cat-Products-Shop-JSP_Project) | Scalable web app with backend processing & user authentication | Java, JSP |
+| 🎬 [Cinema Reservation System](https://github.com/Shahdrabea2004/-Cinema_Reservation_System) | Full cinema booking system with seat selection and reservation management | Java |
+| 🎮 [Console Games Project](https://github.com/Shahdrabea2004/Console-Games-Project) | Collection of interactive console-based games with clean game logic | Java |
+| ❌⭕ [Tic Tac Toe](https://github.com/Shahdrabea2004/Project_tic_tac_toe) | Classic Tic Tac Toe with win detection and two-player mode | C++ |
 
 ---
 
