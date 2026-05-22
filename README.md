@@ -67,7 +67,7 @@ I'm a **Computer Science & Artificial Intelligence student** passionate about bu
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🚀 [EDIP](https://github.com/Shahdrabea2004/EDIP_PROJECT) | AI-powered enterprise document system with OCR, routing, and RAG chatbot | Java, Spring Boot, MongoDB |
+| 🚀 [EDIP](https://github.com/Shahdrabea2004/EDIP) | AI-powered enterprise document system with OCR, routing, and RAG chatbot | Java, Spring Boot, MongoDB |
 | 🛍️ [Sheglow Flask Project](https://github.com/Shahdrabea2004/Sheglow_FlaskProject) | E-commerce backend with authentication & cart system | Python, Flask |
 | 🐱 [Cat Shop JSP](https://github.com/Shahdrabea2004/MewFect-Cat-Products-Shop-JSP_Project) | Scalable web app with backend processing & user authentication | Java, JSP |
 | 🎬 [Cinema Reservation System](https://github.com/Shahdrabea2004/-Cinema_Reservation_System) | Full cinema booking system with seat selection and reservation management | Java |
