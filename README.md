@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Shahd Rabea Eid
 
 <p align="center">
-  <b>🚀 Back-End Developer | CS & AI Student | Problem Solver</b><br/>
-  🎓 Ahram Canadian University (2026)
+  <b>🚀 Backend Developer | Building Scalable Systems with Java & Spring Boot</b><br/>
+  🎓 Computer Science & Artificial Intelligence Student — Ahram Canadian University (2026)
 </p>
 
 <p align="center">
@@ -13,52 +13,59 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science & Artificial Intelligence student** passionate about building **scalable backend systems** and solving real-world problems using **Java, Spring Boot, and AI integration**.
+I'm a Computer Science & Artificial Intelligence student passionate about building scalable backend systems and solving real-world problems using Java, Spring Boot, and AI integration.
 
-- 🔭 Currently working on **EDIP** (AI-powered Document Intelligence Platform)
-- 🧠 Strong interest in **Backend Systems, APIs, and System Design**
-- 🏆 Solved **500+ problems on Codeforces**
-- 👩‍🏫 CPC Mentor helping students improve in Competitive Programming
-- 💬 Ask me about **Java, Spring Boot, REST APIs, or Problem Solving**
+- 🔭 Currently working on **EDIP** — an AI-powered Enterprise Document Intelligence Platform
+- 🧠 Strong interest in scalable backend architectures, distributed systems, and API design
+- 🔐 Experienced with Spring Security, JWT Authentication, and Role-Based Access Control (RBAC)
+- 🏆 Solved 500+ problems on Codeforces
+- 👩‍🏫 CPC Mentor helping students improve their competitive programming and problem-solving skills
+- 💬 Ask me about Java, Spring Boot, REST APIs, System Design, or Problem Solving
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend
+### 💻 Backend Development
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
 
 ### 🗄️ Databases
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle XE](https://img.shields.io/badge/Oracle_XE-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🔗 APIs & Testing
+### 🔗 APIs & Security
 
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Authentication-black?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-Security-blue?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### ⚙️ Software Engineering
 
 ![OOP](https://img.shields.io/badge/OOP-Principles-blue?style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC-Architecture-green?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-Strategy%20%2F%20Factory-purple?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-Backend_Architecture-darkblue?style=for-the-badge)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-Best_Practices-black?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-500%2B_Problems-orange?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data_Structures_%26_Algorithms-Advanced-red?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-Advanced-red?style=for-the-badge)
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
@@ -66,13 +73,13 @@ I'm a **Computer Science & Artificial Intelligence student** passionate about bu
 ## 📌 Featured Projects
 
 | Project | Description | Tech |
-|--------|-------------|------|
-| 🚀 [EDIP](https://github.com/Shahdrabea2004/EDIP) | AI-powered enterprise document system with OCR, routing, and RAG chatbot | Java, Spring Boot, MongoDB |
-| 🛍️ [Sheglow Flask Project](https://github.com/Shahdrabea2004/Sheglow_FlaskProject) | E-commerce backend with authentication & cart system | Python, Flask |
-| 🐱 [Cat Shop JSP](https://github.com/Shahdrabea2004/MewFect-Cat-Products-Shop-JSP_Project) | Scalable web app with backend processing & user authentication | Java, JSP |
-| 🎬 [Cinema Reservation System](https://github.com/Shahdrabea2004/-Cinema_Reservation_System) | Full cinema booking system with seat selection and reservation management | Java |
-| 🎮 [Console Games Project](https://github.com/Shahdrabea2004/Console-Games-Project) | Collection of interactive console-based games with clean game logic | Java |
-| ❌⭕ [Tic Tac Toe](https://github.com/Shahdrabea2004/Project_tic_tac_toe) | Classic Tic Tac Toe with win detection and two-player mode | C++ |
+|----------|-------------|------|
+| [EDIP](https://github.com/Shahdrabea2004/EDIP) | Enterprise document intelligence platform featuring OCR processing, AI-based classification, automated routing, and RAG-powered chatbot integration | Java, Spring Boot, MongoDB |
+| [SheGlow](https://github.com/Shahdrabea2004/Sheglow_FlaskProject) | Full-stack e-commerce platform with authentication, cart management, order processing, and admin dashboard | Python, Flask |
+| [MewFect](https://github.com/Shahdrabea2004/MewFect-Cat-Products-Shop-JSP_Project) | Java EE e-commerce application using Servlets, JSP, JSTL, and MVC architecture | Java EE, JSP |
+| [Cinema Reservation System](https://github.com/Shahdrabea2004/-Cinema_Reservation_System) | Cinema booking and reservation management system with seat selection functionality | Java |
+| [Console Games Project](https://github.com/Shahdrabea2004/Console-Games-Project) | Collection of console-based games demonstrating clean logic and object-oriented programming concepts | Java |
+| [Tic Tac Toe](https://github.com/Shahdrabea2004/Project_tic_tac_toe) | Classic two-player Tic Tac Toe game with win detection logic | C++ |
 
 ---
 
@@ -83,15 +90,19 @@ I'm a **Computer Science & Artificial Intelligence student** passionate about bu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahdrabea2004&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shahdrabea2004&hide_border=true"/>
+</p>
+
 ---
 
 ## 🏅 Achievements
 
-- 🥇 500+ Problems solved on [Codeforces](https://codeforces.com/profile/shahd_rabea)
-- 🥇 Java Gold Badge on [HackerRank](https://www.hackerrank.com/profile/shahdrabeaead)
+- 🥇 Solved 500+ problems on [Codeforces](https://codeforces.com/profile/shahd_rabea)
+- 🥇 Earned Java Gold Badge (5 Stars) on [HackerRank](https://www.hackerrank.com/profile/shahdrabeaead)
 - 🏆 Competitive Programming Contestant (2023–2025)
-- 👩‍🏫 CPC Mentor at University
-- 📜 ITI Full Stack Python Track
+- 👩‍🏫 CPC Mentor at Ahram Canadian University
+- 📜 ITI Python Full Stack Development Track
 
 ---
 
@@ -105,4 +116,6 @@ I'm a **Computer Science & Artificial Intelligence student** passionate about bu
 
 ---
 
-> *"First solve the problem, then write the code."*
+<p align="center">
+  <i>"Turning complex problems into scalable and maintainable software solutions."</i>
+</p>
