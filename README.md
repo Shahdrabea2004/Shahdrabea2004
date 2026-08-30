@@ -81,18 +81,6 @@ I'm a Computer Science & Artificial Intelligence student passionate about buildi
 | [Console Games Project](https://github.com/Shahdrabea2004/Console-Games-Project) | Collection of console-based games demonstrating clean logic and object-oriented programming concepts | Java |
 | [Tic Tac Toe](https://github.com/Shahdrabea2004/Project_tic_tac_toe) | Classic two-player Tic Tac Toe game with win detection logic | C++ |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahdrabea2004&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahdrabea2004&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shahdrabea2004&hide_border=true"/>
-</p>
 
 ---
 
